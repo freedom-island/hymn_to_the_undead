@@ -1,0 +1,4 @@
+# cache directory
+.vs/
+.idea/
+.$config.drawio.bkp

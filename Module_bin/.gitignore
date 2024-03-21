@@ -1,0 +1,7 @@
+# all dist file and dir is ignore.
+*
+
+# save some keep alive dist file.
+!.gitignore
+!languages\*
+!../README
