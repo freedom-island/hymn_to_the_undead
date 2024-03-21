@@ -61,17 +61,17 @@ trp_hired_blade_pl|雇 佣 步 兵 军 士
 trp_mercenary_crossbowman|雇 佣 弩 手　
 trp_mercenary_crossbowman_pl|雇 佣 弩 手　
 trp_mercenary_crossbowman_sergeant|雇 佣 弩 手 军 士
-trp_mercenary_crossbowman_sergeant_p1|雇 佣 弩 手 军 士
+trp_mercenary_crossbowman_sergeant_pl|雇 佣 弩 手 军 士
 trp_mercenary_horseman|雇 佣 骑 兵　
 trp_mercenary_horseman_pl|雇 佣 骑 兵　
 trp_mercenary_cavalry|雇 佣 骑 兵 军 士　
 trp_mercenary_cavalry_pl|雇 佣 骑 兵 军 士
 trp_maceman|雇 佣 锤 手
-trp_maceman_p1|雇 佣 锤 手
+trp_maceman_pl|雇 佣 锤 手
 trp_elite_maceman|雇 佣 资 深 锤 手
-trp_elite_maceman_p1|雇 佣 资 深 锤 手
+trp_elite_maceman_pl|雇 佣 资 深 锤 手
 trp_maceman_captain|雇 佣 锤 手 军 士
-trp_maceman_captain_p1|雇 佣 锤 手 军 士
+trp_maceman_captain_pl|雇 佣 锤 手 军 士
 trp_mercenaries_end|mercenaries end　
 trp_mercenaries_end_pl|mercenaries end　
 trp_swadian_recruit|斯 瓦 迪 亚 村 民 
@@ -125,9 +125,9 @@ trp_vaegir_marksman_pl|维 基 亚 神 射 手　
 trp_vaegir_marksman_pluse|维 基 亚 贵 族 射 手　
 trp_vaegir_marksman_pluse_pl|维 基 贵 族 射 手　
 trp_vaegir_marksman_women|维 基 亚 女 神 射 手
-trp_vaegir_marksman_women_p1|维 基 亚 女 神 射 手
+trp_vaegir_marksman_women_pl|维 基 亚 女 神 射 手
 trp_vaegir_marksman_women_pluse|维 基 亚 女 贵 族 射 手
-trp_vaegir_marksman_women_pluse_p1|维 基 亚 女 贵 族 射 手
+trp_vaegir_marksman_women_pluse_pl|维 基 亚 女 贵 族 射 手
 trp_vaegir_veteran|维 基 亚 步 兵　
 trp_vaegir_veteran_pl|维 基 亚 步 兵　
 trp_vaegir_infantry|维 基 亚 资 深 步 兵 
@@ -195,7 +195,7 @@ trp_nord_women_veteran_pl|诺 德 女 勇 士
 trp_nord_women_champion|诺 德 皇 家 女 卫　
 trp_nord_women_champion_pl|诺 德 皇 家 女 卫　
 trp_nord_women_rider_dragon|诺 德 女 猎 龙 手
-trp_nord_women_rider_dragon_p1|诺 德 女 猎 龙 手
+trp_nord_women_rider_dragon_pl|诺 德 女 猎 龙 手
 trp_nord_valkyries|诺 德 女 武 神　
 trp_nord_valkyries_pl|诺 德 女 武 神　
 trp_nord_huntsman|诺 德 游 击 射 手
@@ -235,19 +235,19 @@ trp_rhodok_veteran_crossbowman_pl|罗 多 克 资 深 弩 手　
 trp_rhodok_sharpshooter|罗 多 克 精 锐 弩 手  
 trp_rhodok_sharpshooter_pl|罗 多 克 精 锐 弩 手   
 trp_rhodok_sharpshooter_1|罗 多 克 弩 手 军 士 
-trp_rhodok_sharpshooter_1_p1|罗 多 克 弩 手 军 士  
+trp_rhodok_sharpshooter_1_pl|罗 多 克 弩 手 军 士  
 trp_rhodok_rider|罗 多 克 巡 林 骑 兵
-trp_rhodok_rider_p1|罗 多 克 巡 林 骑 兵
+trp_rhodok_rider_pl|罗 多 克 巡 林 骑 兵
 trp_rhodok_rider_sergeant|罗 多 克 巡 林 军 士
-trp_rhodok_rider_sergeant_p1|罗 多 克 巡 林 军 士
+trp_rhodok_rider_sergeant_pl|罗 多 克 巡 林 军 士
 trp_rhodok_rider_sergeant_a|罗 多 克 巡 林 骑 士
-trp_rhodok_rider_sergeant_a_p1|罗 多 克 巡 林 骑 士
+trp_rhodok_rider_sergeant_a_pl|罗 多 克 巡 林 骑 士
 trp_rhodok_sister|罗 多 克 巡 林 女 骑 兵
-trp_rhodok_sister_p1|罗 多 克 巡 林 女 骑 兵
+trp_rhodok_sister_pl|罗 多 克 巡 林 女 骑 兵
 trp_rhodok_sister_sergeant|罗 多 克 巡 林 女 军 士
-trp_rhodok_sister_sergeant_p1|罗 多 克 巡 林 女 军 士
+trp_rhodok_sister_sergeant_pl|罗 多 克 巡 林 女 军 士
 trp_rhodok_sister_sergeant_a|罗 多 克 巡 林 女 骑 士
-trp_rhodok_sister_sergeant_a_p1|罗 多 克 巡 林 女 骑 士
+trp_rhodok_sister_sergeant_a_pl|罗 多 克 巡 林 女 骑 士
 trp_rhodok_messenger|罗 多 克 传 令 兵　
 trp_rhodok_messenger_pl|罗 多 克 传 令 兵　
 trp_rhodok_deserter|罗 多 克 逃 兵　
@@ -299,7 +299,7 @@ trp_sarranid_castle_guard_pl|城 堡 护 卫　
 trp_zendar_freemen|禅 达 自 由 民 
 trp_zendar_freemen_pl|禅 达 自 由 民   
 trp_zendar_military_freemen|禅 达 武 装 自 由 民 
-trp_zendar_military_freemen_p1|禅 达 武 装 自 由 民   
+trp_zendar_military_freemen_pl|禅 达 武 装 自 由 民   
 trp_zendar_soldier_1|禅 达 长 枪 兵
 trp_zendar_soldier_1_pl|禅 达 长 枪 兵　
 trp_zendar_senior_soldier_1|禅 达 职 业 长 枪 兵 
@@ -313,9 +313,9 @@ trp_zendar_senior_soldier_pl|禅 达 职 业 火 枪 兵
 trp_zendar_sergeant|禅 达 火 枪 队 长　
 trp_zendar_sergeant_pl|禅 达 火 枪 队 长　　
 trp_zendar_man_at_arms_1|禅 达 火 枪 骑 兵 　
-trp_zendar_man_at_arms_1_p1|禅 达 火 枪 骑 兵 
+trp_zendar_man_at_arms_1_pl|禅 达 火 枪 骑 兵 
 trp_zendar_man_at_arms_2|禅 达 火 枪 骑 兵 队 长　
-trp_zendar_man_at_arms_2_p1|禅 达 火 枪 骑 兵 队 长
+trp_zendar_man_at_arms_2_pl|禅 达 火 枪 骑 兵 队 长
 trp_zendar_horseman|禅 达 骑 兵 　
 trp_zendar_horseman_pl|禅 达 骑 兵
 trp_zendar_horseman_1|禅 达 骑 兵 队 长 　
@@ -333,39 +333,39 @@ trp_zendar_prison_guard_pl|监 狱 守 卫　
 trp_zendar_castle_guard|城 堡 护 卫　
 trp_zendar_castle_guard_pl|城 堡 护 卫
 trp_undead_believer|异 教 信 徒 
-trp_undead_believer_p1|异 教 信 徒  
+trp_undead_believer_pl|异 教 信 徒  
 trp_undead_guard|异 教 教 徒  
-trp_undead_guard_p1|异 教 教 徒 
+trp_undead_guard_pl|异 教 教 徒 
 trp_undead_guard_a|教 堂 守 卫   
-trp_undead_guard_a_p1|教 堂 守 卫   
+trp_undead_guard_a_pl|教 堂 守 卫   
 trp_undead_guard_b|古 堡 守 卫  
-trp_undead_guard_b_p1|古 堡 守 卫 
+trp_undead_guard_b_pl|古 堡 守 卫 
 trp_undead_guard_c|堕 落 骑 士
-trp_undead_guard_c_p1|堕 落 骑 士
+trp_undead_guard_c_pl|堕 落 骑 士
 trp_undead_shoot_a|暗 林 看 守 
-trp_undead_shoot_a_p1|暗 林 看 守 
+trp_undead_shoot_a_pl|暗 林 看 守 
 trp_undead_shoot_b|暗 林 哨 卫
-trp_undead_shoot_b_p1|暗 林 哨 卫
+trp_undead_shoot_b_pl|暗 林 哨 卫
 trp_undead_shoot_c|暗 林 追 踪 者
-trp_undead_shoot_c_p1|暗 林 追 踪 者
+trp_undead_shoot_c_pl|暗 林 追 踪 者
 trp_undead_shoot_d|暗 林 巡 逻 者
-trp_undead_shoot_d_p1|暗 林 巡 逻 者
+trp_undead_shoot_d_pl|暗 林 巡 逻 者
 trp_undead_horse|祭 品 抓 捕 者
-trp_undead_horse_p1|祭 品 抓 捕 者
+trp_undead_horse_pl|祭 品 抓 捕 者
 trp_undead_knight|猎 祭 骑 士
-trp_undead_knight_p1|猎 祭 骑 士
+trp_undead_knight_pl|猎 祭 骑 士
 trp_undead_knight_pluse|猎 祭 鹫 骑 士 
-trp_undead_knight_pluse_p1|猎 祭 鹫 骑 士 
+trp_undead_knight_pluse_pl|猎 祭 鹫 骑 士 
 trp_undead_footman|邪 教 暴 徒
-trp_undead_footman_p1|邪 教 暴 徒
+trp_undead_footman_pl|邪 教 暴 徒
 trp_undead_footman_a|邪 教 帮 凶
-trp_undead_footman_a_p1|邪 教 帮 凶
+trp_undead_footman_a_pl|邪 教 帮 凶
 trp_undead_footman_b|邪 教 侩 子 手
-trp_undead_footman_b_p1|邪 教 侩 子 手
+trp_undead_footman_b_pl|邪 教 侩 子 手
 trp_undead_footman_c|邪 教 行 刑 人
-trp_undead_footman_c_p1|邪 教 行 刑 人
+trp_undead_footman_c_pl|邪 教 行 刑 人
 trp_undead_footman_d|邪 教 处 刑 人
-trp_undead_footman_d_p1|邪 教 处 刑 人
+trp_undead_footman_d_pl|邪 教 处 刑 人
 trp_undead_messenger|邪 教 信 使 　
 trp_undead_messenger_pl|邪 教 信 使　
 trp_undead_deserter|邪 教 逃 亡 者　
@@ -375,78 +375,78 @@ trp_undead_prison_guard_pl|监 狱 守 卫　
 trp_undead_castle_guard|城 堡 护 卫　
 trp_undead_castle_guard_pl|城 堡 护 卫
 trp_undead_sergeant|堕 落 骑 士
-trp_undead_sergeant_p1|堕 落 骑 士
+trp_undead_sergeant_pl|堕 落 骑 士
 trp_undead_knight_a|黑 暗 骑 士
-trp_undead_knight_a_p1|黑 暗 骑 士
+trp_undead_knight_a_pl|黑 暗 骑 士
 trp_undead_knight_b|黑 暗 龙 骑 士
-trp_undead_knight_b_p1|黑 暗 龙 骑 士
+trp_undead_knight_b_pl|黑 暗 龙 骑 士
 trp_undead_farmer|活 死 人 
-trp_undead_farmer_p1|活 死 人
+trp_undead_farmer_pl|活 死 人
 trp_undead_infantry|屠 夫
-trp_undead_infantry_p1|屠 夫
+trp_undead_infantry_pl|屠 夫
 trp_undead_infantry_a|憎 恶  
-trp_undead_infantry_a_p1|憎 恶
+trp_undead_infantry_a_pl|憎 恶
 trp_undead_infantry_b|尸 魔 
-trp_undead_infantry_b_p1|尸 魔 
+trp_undead_infantry_b_pl|尸 魔 
 trp_undead_infantry_horse|厄 运
-trp_undead_infantry_horse_p1|厄 运
+trp_undead_infantry_horse_pl|厄 运
 trp_undead_infantry_horse_a|灾 祸
-trp_undead_infantry_horse_a_p1|灾 祸
+trp_undead_infantry_horse_a_pl|灾 祸
 trp_undead_shooter|死 灵
-trp_undead_shooter_p1|死 灵
+trp_undead_shooter_pl|死 灵
 trp_undead_shooter_a|怨 灵
-trp_undead_shooter_a_p1|怨 灵
+trp_undead_shooter_a_pl|怨 灵
 trp_undead_shooter_c|恶 灵
-trp_undead_shooter_c_p1|恶 灵
+trp_undead_shooter_c_pl|恶 灵
 trp_undead_shooter_b|幽 影
-trp_undead_shooter_b_p1|幽 影
+trp_undead_shooter_b_pl|幽 影
 trp_undead_shooter_d|邪 影
-trp_undead_shooter_d_p1|邪 影
+trp_undead_shooter_d_pl|邪 影
 trp_undead_ogre|暴 君
-trp_undead_ogre_p1|暴 君
+trp_undead_ogre_pl|暴 君
 trp_undead_ogre_pluse|巨 兽
-trp_undead_ogre_pluse_p1|巨 兽
+trp_undead_ogre_pluse_pl|巨 兽
 trp_undead_dragon|骸 骨 巨 龙
-trp_undead_dragon_p1|骸 骨 巨 龙
+trp_undead_dragon_pl|骸 骨 巨 龙
 trp_skeleton|骷 髅 喽 啰
-trp_skeleton_p1|骷 髅 喽 啰
+trp_skeleton_pl|骷 髅 喽 啰
 trp_skeleton_soldier|骷 髅 兵
-trp_skeleton_soldier_p1|骷 髅 兵
+trp_skeleton_soldier_pl|骷 髅 兵
 trp_skeleton_soldier_a|熟 练 骷 髅 兵
-trp_skeleton_soldier_a_p1|熟 练 骷 髅 兵
+trp_skeleton_soldier_a_pl|熟 练 骷 髅 兵
 trp_skeleton_soldier_b|老 骷 髅 兵
-trp_skeleton_soldier_b_p1|老 骷 髅 兵
+trp_skeleton_soldier_b_pl|老 骷 髅 兵
 trp_skeleton_soldier_c|精 锐 骷 髅 兵
-trp_skeleton_soldier_c_p1|精 锐 骷 髅 兵
+trp_skeleton_soldier_c_pl|精 锐 骷 髅 兵
 trp_skeleton_soldier_d|骷 髅 兵 军 士
-trp_skeleton_soldier_d_p1|骷 髅 兵 军 士
+trp_skeleton_soldier_d_pl|骷 髅 兵 军 士
 trp_skeleton_soldier_fighter|骷 髅 狂 斗 士
 trp_skeleton_shooter|骷 髅 射 手
-trp_skeleton_shooter_p1|骷 髅 射 手
+trp_skeleton_shooter_pl|骷 髅 射 手
 trp_skeleton_shooter_a|熟 练 骷 髅 射 手
-trp_skeleton_shooter_a_p1|熟 练 骷 髅 射 手
+trp_skeleton_shooter_a_pl|熟 练 骷 髅 射 手
 trp_skeleton_shooter_b|老 骷 髅 射 手 
-trp_skeleton_shooter_b_p1|老 骷 髅 射 
+trp_skeleton_shooter_b_pl|老 骷 髅 射 
 trp_skeleton_shooter_c|精 锐 骷 髅 射 手 
-trp_skeleton_shooter_c_p1|精 锐 骷 髅 射 
+trp_skeleton_shooter_c_pl|精 锐 骷 髅 射 
 trp_skeleton_horse|骷 髅 骑 兵
-trp_skeleton_horse_p1|骷 髅 骑 兵
+trp_skeleton_horse_pl|骷 髅 骑 兵
 trp_skeleton_horse_a|骷 髅 铁 骑 兵
-trp_skeleton_horse_a_p1|骷 髅 铁 骑 兵
+trp_skeleton_horse_a_pl|骷 髅 铁 骑 兵
 trp_skeleton_riding_shoot|骷 髅 骑 射 手
-trp_skeleton_riding_shoot_p1|骷 髅 骑 射 手
+trp_skeleton_riding_shoot_pl|骷 髅 骑 射 手
 trp_skeleton_riding_shoot_a|骷 髅 骑 精 锐 射 手
-trp_skeleton_riding_shoot_a_p1|骷 髅 骑 精 锐 射 手
+trp_skeleton_riding_shoot_a_pl|骷 髅 骑 精 锐 射 手
 trp_big_evil|大 恶 魔 
-trp_big_evil_p1|大 恶 魔 
+trp_big_evil_pl|大 恶 魔 
 trp_undead_ride|死 亡 骑 士   
-trp_undead_ride_p1|死 亡 骑 士
+trp_undead_ride_pl|死 亡 骑 士
 trp_undead_ride_1|恐 惧 骑 士   
-trp_undead_ride_1_p1|恐 惧 骑 士  
+trp_undead_ride_1_pl|恐 惧 骑 士  
 trp_undead_ride_2|地 狱 男 爵   
-trp_undead_ride_2_p1|地 狱 男 爵 
+trp_undead_ride_2_pl|地 狱 男 爵 
 trp_darkness_valkyries|暗 黑 女 武 神  
-trp_darkness_valkyries_p1|暗 黑 女 武 神    
+trp_darkness_valkyries_pl|暗 黑 女 武 神    
 trp_sept_recruit|圣 堂 信 民 
 trp_sept_recruit_pl|圣 堂 信 民  
 trp_sept_militia|圣 堂 信 教 新 兵
@@ -490,59 +490,59 @@ trp_sept_prison_guard_pl|监 狱 守 卫　
 trp_sept_castle_guard|城 堡 护 卫　
 trp_sept_castle_guard_pl|城 堡 护 卫　
 trp_angel_a|堕 天 使
-trp_angel_a_p1|堕 天 使
+trp_angel_a_pl|堕 天 使
 trp_angel_b|圣 天 使
-trp_angel_b_p1|圣 天 使
+trp_angel_b_pl|圣 天 使
 trp_angel_c|炽 天 使
-trp_angel_c_p1|炽 天 使
+trp_angel_c_pl|炽 天 使
 trp_necromancer_chanter|亡 灵 咏 唱 者
-trp_necromancer_chanter_p1|亡 灵 咏 唱 者
+trp_necromancer_chanter_pl|亡 灵 咏 唱 者
 trp_necromancer_noob|亡 灵 法 师 学 徒
-trp_necromancer_noob_p1|亡 灵 法 师 学 徒
+trp_necromancer_noob_pl|亡 灵 法 师 学 徒
 trp_necromancer_learn|亡 灵 法 师 学 者
-trp_necromancer_learn_p1|亡 灵 法 师 学 者
+trp_necromancer_learn_pl|亡 灵 法 师 学 者
 trp_necromancer|亡 灵 法 师 
-trp_necromancer_p1|亡 灵 法 师 
+trp_necromancer_pl|亡 灵 法 师 
 trp_necromancer_master|亡 灵 大 法 师 
-trp_necromancer_master_p1|亡 灵 大 法 师 
+trp_necromancer_master_pl|亡 灵 大 法 师 
 trp_dark_sorceress|暗 黑 魔 女 
-trp_dark_sorceress_p1|暗 黑 魔 女 
+trp_dark_sorceress_pl|暗 黑 魔 女 
 trp_sept_follower|圣 堂 追 信 者
-trp_sept_follower_p1|圣 堂 追 信 者
+trp_sept_follower_pl|圣 堂 追 信 者
 trp_sept_friar|圣 堂 修 士
-trp_sept_friar_p1|圣 堂 修 士
+trp_sept_friar_pl|圣 堂 修 士
 trp_sept_deacon|圣 堂 牧 师
-trp_sept_deacon_p1|圣 堂 牧 师
+trp_sept_deacon_pl|圣 堂 牧 师
 trp_sept_priest|圣 堂 神 父
-trp_sept_priest_p1|圣 堂 神 父
+trp_sept_priest_pl|圣 堂 神 父
 trp_sept_god_officer|圣 堂 神 官
-trp_sept_god_officer_p1|圣 堂 神 官
+trp_sept_god_officer_pl|圣 堂 神 官
 trp_sept_god_officer_pluse|圣 堂 圣 裁 官
-trp_sept_god_officer_pluse_p1|圣 堂 圣 裁 官
+trp_sept_god_officer_pluse_pl|圣 堂 圣 裁 官
 trp_looter|劫 匪　
 trp_looter_pl|劫 匪　
 trp_rioter|暴 徒 
 trp_rioter_pl|暴 徒
 trp_Outlaw|法 外 狂 徒 
-trp_Outlaw_p1|法 外 狂 徒 
+trp_Outlaw_pl|法 外 狂 徒 
 trp_rogue|人 渣 
 trp_rogue_pl|人 渣 
 trp_mouse|老 鼠
 trp_mouse_1|老 鼠
 trp_robber|盗 贼
-trp_robber_p1|盗 贼
+trp_robber_pl|盗 贼
 trp_hatchet_man|秘 密 之 手 打 手
-trp_hatchet_man_p1|秘 密 之 手 打 手
+trp_hatchet_man_pl|秘 密 之 手 打 手
 trp_hatchet_man_1|秘 密 之 手 流 氓 佣 兵 
-trp_hatchet_man_1_p1|秘 密 之 手 流 氓 佣 兵 
+trp_hatchet_man_1_pl|秘 密 之 手 流 氓 佣 兵 
 trp_hatchet_man_2|秘 密 之 手 流 氓 佣 兵 头 领 
-trp_hatchet_man_2_p1|秘 密 之 手 流 氓 佣 兵 头 领 
+trp_hatchet_man_2_pl|秘 密 之 手 流 氓 佣 兵 头 领 
 trp_assassin|秘 密 之 手 探 子
-trp_assassin_p1|秘 密 之 手 探 子
+trp_assassin_pl|秘 密 之 手 探 子
 trp_assassin_1|秘 密 之 手 刺 客 
-trp_assassin_1_p1|秘 密 之 手 刺 客  
+trp_assassin_1_pl|秘 密 之 手 刺 客  
 trp_assassin_2|秘 密 之 手 暗 杀 者 
-trp_assassin_2_p1|秘 密 之 手 暗 杀 者 
+trp_assassin_2_pl|秘 密 之 手 暗 杀 者 
 trp_bandit|强 盗　
 trp_bandit_pl|强 盗　
 trp_brigand|土 匪　
@@ -589,38 +589,38 @@ trp_desert_bandit_2|沙 漠 掠 夺 者　
 trp_desert_bandit_2_pl|沙 漠 掠 夺 者
 trp_golden_boar|黄 金 野 猪 团 雇 佣 兵
 trp_golden_boar_1|黄 金 野 猪 团 雇 佣 军 
-trp_golden_boar_p1|黄 金 野 猪 团 雇 佣 兵
-trp_golden_boar_1_p1|黄 金 野 猪 团 雇 佣 军
+trp_golden_boar_pl|黄 金 野 猪 团 雇 佣 兵
+trp_golden_boar_1_pl|黄 金 野 猪 团 雇 佣 军
 trp_skolder_recruit|护 盾 兄 弟 会 新 兵 
-trp_skolder_recruit_p1|护 盾 兄 弟 会 新 兵 
+trp_skolder_recruit_pl|护 盾 兄 弟 会 新 兵 
 trp_skolder_warrior_brotva|护 盾 兄 弟 会 战 士 
-trp_skolder_warrior_brotva_p1|护 盾 兄 弟 会 战 士 
+trp_skolder_warrior_brotva_pl|护 盾 兄 弟 会 战 士 
 trp_skolder_veteran_brotva|护 盾 兄 弟 会 老 兵 
-trp_skolder_veteran_brotva_p1|护 盾 兄 弟 会 老 兵
+trp_skolder_veteran_brotva_pl|护 盾 兄 弟 会 老 兵
 trp_ghilman_1|古 拉 姆 新 兵
 trp_ghilman_2|古 拉 姆 骆 驼 骑 兵
 trp_ghilman_3|古 拉 姆 骆 驼 重 骑 兵
-trp_ghilman_1_p1|古 拉 姆 新 兵
-trp_ghilman_2_p1|古 拉 姆 骆 驼 骑 兵
-trp_ghilman_3_p1|古 拉 姆 骆 驼 重 骑 兵
+trp_ghilman_1_pl|古 拉 姆 新 兵
+trp_ghilman_2_pl|古 拉 姆 骆 驼 骑 兵
+trp_ghilman_3_pl|古 拉 姆 骆 驼 重 骑 兵
 trp_prairie_freedmen_1|自 由 民 牧 羊 人
 trp_prairie_freedmen_2|自 由 民 商 队 护 卫
 trp_prairie_freedmen_3|自 由 民 雇 佣 骑 兵
-trp_prairie_freedmen_1_p1|自 由 民 牧 羊 人
-trp_prairie_freedmen_2_p1|自 由 民 商 队 护 卫
-trp_prairie_freedmen_3_p1|自 由 民 雇 佣 骑 兵
+trp_prairie_freedmen_1_pl|自 由 民 牧 羊 人
+trp_prairie_freedmen_2_pl|自 由 民 商 队 护 卫
+trp_prairie_freedmen_3_pl|自 由 民 雇 佣 骑 兵
 trp_mountain_mercenarie_1|山 地 民 团 新 兵
 trp_mountain_mercenarie_2|山 地 民 团 士 兵
 trp_mountain_mercenarie_3|山 地 民 团 老 兵
-trp_mountain_mercenarie_1_p1|山 地 民 团 新 兵
-trp_mountain_mercenarie_2_p1|山 地 民 团 士 兵
-trp_mountain_mercenarie_3_p1|山 地 民 团 老 兵
+trp_mountain_mercenarie_1_pl|山 地 民 团 新 兵
+trp_mountain_mercenarie_2_pl|山 地 民 团 士 兵
+trp_mountain_mercenarie_3_pl|山 地 民 团 老 兵
 trp_forest_people_1|幼 狼
 trp_forest_people_2|老 狼
 trp_forest_people_3|头 狼
-trp_forest_people_1_p1|幼 狼
-trp_forest_people_2_p1|老 狼
-trp_forest_people_3_p1|头 狼
+trp_forest_people_1_pl|幼 狼
+trp_forest_people_2_pl|老 狼
+trp_forest_people_3_pl|头 狼
 trp_manhunter|赏 金 猎 人　
 trp_manhunter_pl|赏 金 猎 人　
 trp_slave_driver|奴 贩 押 解　
@@ -723,6 +723,12 @@ trp_ransom_broker_9|赎 金 经 纪 人　
 trp_ransom_broker_9_pl|赎 金 经 纪 人　
 trp_ransom_broker_10|赎 金 经 纪 人　
 trp_ransom_broker_10_pl|赎 金 经 纪 人　
+trp_ransom_broker_11|赎 金 经 纪 人　
+trp_ransom_broker_11_pl|赎 金 经 纪 人　
+trp_ransom_broker_12|赎 金 经 纪 人　
+trp_ransom_broker_12_pl|赎 金 经 纪 人　
+trp_ransom_broker_13|赎 金 经 纪 人　
+trp_ransom_broker_13_pl|赎 金 经 纪 人　
 trp_secret_ransom_broker|秘 密 之 手 赎 金 经 纪 人　
 trp_secret_ransom_broker_pl|秘 密 之 手 赎 金 经 纪 人　
 trp_tavern_traveler_1|旅 行 者　
@@ -820,7 +826,7 @@ trp_kingdom_6_lord_pl|哈 基 姆　
 trp_kingdom_7_lord|阿 拉 西 斯 女 王
 trp_kingdom_7_lord_pl|阿 拉 西 斯　
 trp_kingdom_undead_lord|波 莉 雅 教 皇
-trp_kingdom_undead_lord_p1|波 莉 雅 教 皇
+trp_kingdom_undead_lord_pl|波 莉 雅 教 皇
 trp_knight_1_1|克 拉 格 斯 伯 爵　
 trp_knight_1_1_pl|克 拉 格 斯　
 trp_knight_1_2|迪 林 纳 德 伯 爵　
@@ -1062,11 +1068,11 @@ trp_knight_6_19_pl|哈 什 万　
 trp_knight_6_20|比 力 亚 酋 长　
 trp_knight_6_20_pl|比 力 亚　
 trp_knight_7_1|哈 瑞 克 伯 爵  
-trp_knight_7_1_p1|哈 瑞 克 
+trp_knight_7_1_pl|哈 瑞 克 
 trp_knight_7_2|斯 塔 罗 斯 伯 爵  
-trp_knight_7_2_p1|斯 塔 罗 斯 
+trp_knight_7_2_pl|斯 塔 罗 斯 
 trp_knight_7_3|吉 米 伯 爵  
-trp_knight_7_3_p1|吉 米
+trp_knight_7_3_pl|吉 米
 trp_knight_undead_1|提 罗 斯 塔 尔 主 教
 trp_knight_undead_1_pl|提 罗 斯 塔 尔　
 trp_knight_undead_2|萨 格 罗 斯 主 教　
@@ -1362,17 +1368,17 @@ trp_kingdom_6_lady_19_pl|佳 纳 比　
 trp_kingdom_6_lady_20|苏 尔 女 士　
 trp_kingdom_6_lady_20_pl|苏 尔　
 trp_kingdom_7_lady_1|玛 丽 亚 女 士 
-trp_kingdom_7_lady_1_p1|玛 丽 亚  
+trp_kingdom_7_lady_1_pl|玛 丽 亚  
 trp_kingdom_7_lady_2|露 西 女 士 
-trp_kingdom_7_lady_2_p1|露 西  
+trp_kingdom_7_lady_2_pl|露 西  
 trp_kingdom_7_lady_3|妮 可 女 士 
-trp_kingdom_7_lady_3_p1|妮 可  
+trp_kingdom_7_lady_3_pl|妮 可  
 trp_kingdom_7_lady_4|索 菲 亚 女 士 
-trp_kingdom_7_lady_4_p1|索 菲 亚 
+trp_kingdom_7_lady_4_pl|索 菲 亚 
 trp_kingdom_7_lady_5|斯 拉 女 士 
-trp_kingdom_7_lady_5_p1|斯 拉  
+trp_kingdom_7_lady_5_pl|斯 拉  
 trp_kingdom_7_lady_6|丝 卡 女 士 
-trp_kingdom_7_lady_6_p1|丝 卡  
+trp_kingdom_7_lady_6_pl|丝 卡  
 trp_kingdom_7_lady_7|娜 丝 女 士　
 trp_kingdom_7_lady_7_pl|娜 丝
 trp_kingdom_7_lady_8|艾 达 女 士　
@@ -1871,25 +1877,25 @@ trp_secret_horse_merchant|秘 密 之 手 马 匹 贩 子
 trp_secret_supplies|秘 密 之 手 军 需 服 务 商　
 trp_secret_supplies_pl|秘 密 之 军 需 服 务 商
 trp_rodrigo_de_rraganca| 黑 帮 教 父 罗 得 里 格 · 波 拉 冈 卡　
-trp_rodrigo_de_rraganca_p1| 黑 帮 教 父 罗 得 里 格 · 波 拉 冈 卡　
+trp_rodrigo_de_rraganca_pl| 黑 帮 教 父 罗 得 里 格 · 波 拉 冈 卡　
 trp_explore_elder|探 究 会 达 芬 奇
-trp_explore_elder_p1|探 究 会 达 芬 奇
+trp_explore_elder_pl|探 究 会 达 芬 奇
 trp_golden_boar_elder|黄 金 野 猪 兵 团 的 加 尔 萨
-trp_golden_boar_elder_p1|黄 金 野 猪 兵 团 的 加 尔 萨
+trp_golden_boar_elder_pl|黄 金 野 猪 兵 团 的 加 尔 萨
 trp_skolder_brotva_elder|护 盾 兄 弟 会 的 列 克
-trp_skolder_brotva_elder_p1|护 盾 兄 弟 会 的 列 克
+trp_skolder_brotva_elder_pl|护 盾 兄 弟 会 的 列 克
 trp_ghilman_elder|古 拉 姆 的 几 哈
-trp_ghilman_elder_p1|古 拉 姆 的 几 哈
+trp_ghilman_elder_pl|古 拉 姆 的 几 哈
 trp_forest_people_elder|森 林 人 伍 尔 夫 尔
-trp_forest_people_elder_p1|森 林 人 伍 尔 夫 尔
+trp_forest_people_elder_pl|森 林 人 伍 尔 夫 尔
 trp_mountain_mercenarie_elder|山 地 民 团 科 多 尔
-trp_mountain_mercenarie_elder_p1|山 地 民 团 科 多 尔
+trp_mountain_mercenarie_elder_pl|山 地 民 团 科 多 尔
 trp_prairie_freedmen_elder|草 原 自 由 民 斯 贝 尔
-trp_prairie_freedmen_elder_p1|草 原 自 由 民 斯 贝 尔
+trp_prairie_freedmen_elder_pl|草 原 自 由 民 斯 贝 尔
 trp_manhunter_king|赏 金 之 王 约 翰
-trp_manhunter_king_p1|赏 金 之 王 约 翰
+trp_manhunter_king_pl|赏 金 之 王 约 翰
 trp_mercenary_guild_elder|佣 兵 公 会 的 卡 奇
-trp_mercenary_guild_elder_p1|佣 兵 公 会 的 卡 奇
+trp_mercenary_guild_elder_pl|佣 兵 公 会 的 卡 奇
 trp_sea_raider_lair_elder|海 寇 头 领
 trp_desert_bandit_elder|沙 漠 马 匪 头 领
 trp_steppe_bandit_elder|响 马 头 领

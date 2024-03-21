@@ -6,5 +6,5 @@
 #export_dir =  "D:/Steam/steamapps/common/MountBlade Warband/Modules/PlaguesAndCults/"
 
 #export_dir = "D:/Steam/steamapps/common/MountBlade Warband/Modules/PlaguesAndCults/"
-export_dir = "../"
+export_dir = "../Module_bin/"
 #export_dir = "C:/Program Files (x86)/Mount&Blade Warband/Modules/Native/"

@@ -4352,24 +4352,24 @@ scripts = [
       
       (try_begin),
         (is_between, ":troop_level", 0, 6),
-        (assign, reg0, 10),
+        (assign, reg0, 3),
       (else_try),  
         (is_between, ":troop_level", 6, 11),
-        (assign, reg0, 20),
+        (assign, reg0, 8),
       (else_try),  
         (is_between, ":troop_level", 11, 16),
-        (assign, reg0, 40),
+        (assign, reg0, 25),
       (else_try),  
         (is_between, ":troop_level", 16, 21),
-        (assign, reg0, 80),
+        (assign, reg0, 50),
       (else_try),  
         (is_between, ":troop_level", 21, 26),
-        (assign, reg0, 120),
+        (assign, reg0, 100),
       (else_try),  
         (is_between, ":troop_level", 26, 31),
-        (assign, reg0, 160),
-      (else_try),  
         (assign, reg0, 200),
+      (else_try),
+        (assign, reg0, 360),
       (try_end),  
         
       (set_trigger_result, reg0),
@@ -4403,7 +4403,7 @@ scripts = [
 
   # script_game_check_prisoner_can_be_sold
   # This script is called from the game engine for checking if a given troop can be sold.
-  # Input: 
+  # Input:
   # param1: troop_id,
   # Output: reg0: 1= can be sold; 0= cannot be sold.
   
@@ -49039,7 +49039,7 @@ scripts = [
       (troop_sort_inventory, ":cur_merchant"),
       (store_troop_gold, ":cur_gold",":cur_merchant"),
       (lt,":cur_gold",1500),
-      (store_random_in_range,":new_gold",500,1000),
+      (store_random_in_range,":new_gold",5000,10000),
       (call_script, "script_troop_add_gold", ":cur_merchant", ":new_gold"),
     (try_end), 	
   ]), 
@@ -49062,7 +49062,7 @@ scripts = [
 	  (troop_sort_inventory, ":cur_merchant"),
 	  (store_troop_gold, reg6, ":cur_merchant"),
 	  (lt, reg6, 1000),
-	  (store_random_in_range, ":new_gold", 250, 500),
+	  (store_random_in_range, ":new_gold", 2500, 5000),
 	  (call_script, "script_troop_add_gold", ":cur_merchant", ":new_gold"),
     (end_try),
   ]),
@@ -49090,7 +49090,7 @@ scripts = [
       (troop_sort_inventory, ":cur_merchant"), 
       (store_troop_gold, reg6, ":cur_merchant"),
       (lt, reg6, 1000),
-      (store_random_in_range, ":new_gold", 250, 500),
+      (store_random_in_range, ":new_gold", 2500, 5000),
       (call_script, "script_troop_add_gold", ":cur_merchant", ":new_gold"),
     (try_end),
   ]),
@@ -49110,7 +49110,7 @@ scripts = [
       (troop_sort_inventory, ":cur_merchant"),
       (store_troop_gold, ":cur_gold", ":cur_merchant"),
       (lt, ":cur_gold", 600),
-      (store_random_in_range, ":new_gold", 250, 500),
+      (store_random_in_range, ":new_gold", 2500, 5000),
       (call_script, "script_troop_add_gold", ":cur_merchant", ":new_gold"),
     (try_end),
   ]),
