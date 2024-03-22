@@ -1,4 +1,6 @@
 # cache directory
 .vs/
 .idea/
+venv/
 .$config.drawio.bkp
+*/__pycache__
